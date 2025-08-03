@@ -64,7 +64,7 @@ To run this project on your local machine, follow these steps:
 
 ```bash
 # 1. Clone this repository
-git clone [https://github.com/EthanNguyen1412/Plant_Disease_Diagnosis_AI.git]
+git clone https://github.com/EthanNguyen1412/Plant_Disease_Diagnosis_AI.git
 cd plant-disease-app
 
 # 2. Create a virtual environment (recommended)
