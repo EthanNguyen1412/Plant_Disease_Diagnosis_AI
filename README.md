@@ -102,7 +102,7 @@ plant-disease-app/
 │   └── index.html       # The user interface
 ├── app.py               # The Flask web server
 ├── train_model.py       # The AI model training script
-├── best_model_...h5     # The trained model file
+├── plant_disease...h5   # The trained model file
 ├── class_names.json     # The disease class names
 └── requirements.txt     # A list of required libraries
 ```
